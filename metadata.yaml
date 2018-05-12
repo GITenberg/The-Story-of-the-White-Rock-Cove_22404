@@ -1,0 +1,33 @@
+_repo: The-Story-of-the-White-Rock-Cove_22404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2007-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Holidays -- Juvenile fiction'
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: The Story of the White-Rock Cove
+url: http://www.gutenberg.org/ebooks/22404
