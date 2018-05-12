@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22404#The-Story-of-the-White-Rock-Cove
 gutenberg_issued: '2007-08-26'
 gutenberg_type: Text
 identifiers:
